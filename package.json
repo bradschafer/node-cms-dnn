@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/bradschafer/node-cms-dnn/issues"
   },
-  "homepage": "https://github.com/bradschafer/node-cms-dnn"
+  "homepage": "https://github.com/bradschafer/node-cms-dnn",
+  "devDependencies": {
+    "chai": "^2.2.0",
+    "mocha": "^2.2.4"
+  }
 }

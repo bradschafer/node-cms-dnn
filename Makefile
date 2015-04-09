@@ -21,4 +21,4 @@ skel:
 	touch index.js
 	npm install mocha chai --save-dev
 
-.PHONY: test tap unit jshint skel
+.PHONY: test tap unit jshint skelnpm install
